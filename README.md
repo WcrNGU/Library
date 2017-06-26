@@ -2,6 +2,7 @@
 The knowledge tree for a software engineer.
  
 1. 基础知识
+
   1.1 操作系统原理
   1.2 网络原理
   1.3 计算机组成原理
@@ -12,7 +13,9 @@ The knowledge tree for a software engineer.
   1.8 质量管理
   1.9 设计模式
   1.10 编译原理
+  
 2. 高级语言
+
   2.1 c/c++
   2.2 java
     2.2.1 javaSE
@@ -20,7 +23,9 @@ The knowledge tree for a software engineer.
   2.3 python
   2.4 HTML、CSS、JS
   2.5 go、android、swift
+  
 3. 实践技能
+
   3.1 网站架设
     3.1.1 服务器软件的配置
     3.1.2 网络间数据的传输
@@ -30,9 +35,12 @@ The knowledge tree for a software engineer.
   3.4 linux操作系统的使用
   3.5 vim编辑器的使用
   3.6 github版本控制的使用
+  
 4. 新兴技术
+
   4.1 云计算
   4.2 大数据
   4.3 机器学习
   4.4 人工智能
+  
 5. 零散知识点
